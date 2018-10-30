@@ -81,4 +81,4 @@ git push   (синхронизирует/отправляет файлы на у
 git pull
 ---------------------------------------------------------------------------------------
 
-Ссылка на сайт https://olegfd11.github.io/lot/index.html
+Ссылка на сайт https://StanislavSukhanov/frontend-myPortfolioProject-fullstackAcademy2018/index.html
